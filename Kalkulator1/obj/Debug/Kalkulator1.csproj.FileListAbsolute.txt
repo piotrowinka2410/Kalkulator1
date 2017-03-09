@@ -1,0 +1,5 @@
+c:\users\sabina\documents\visual studio 2015\Projects\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.exe
+c:\users\sabina\documents\visual studio 2015\Projects\Kalkulator1\Kalkulator1\bin\Debug\Kalkulator1.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.exe
+c:\users\sabina\documents\visual studio 2015\Projects\Kalkulator1\Kalkulator1\obj\Debug\Kalkulator1.pdb
